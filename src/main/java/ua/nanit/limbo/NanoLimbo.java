@@ -128,17 +128,17 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "magmanode.855220.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiM2ViN2ZjYTU5MDJjMWE2NTk3ODU4YzEyZWIzYWE2OTkiLCJ0IjoiNzE2MGVkODktYzY4NS00NTAyLWFkYTYtNTE4YTc5ODg1ODgyIiwicyI6IlpUTTFOek5qTURFdE1tSmtOaTAwTVRjMExUZzBPRFF0T0RobU1XTXpOMlF5WXpRNCJ9");
-        envVars.put("HY2_PORT", "25597");
+        envVars.put("ARGO_DOMAIN", "gaming4free.855220.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiM2ViN2ZjYTU5MDJjMWE2NTk3ODU4YzEyZWIzYWE2OTkiLCJ0IjoiYjhhNjZkZTUtYTczYy00YmYzLWFjYmMtNjk3ODVjNTg1OGI3IiwicyI6Ik4yWTNNVEV6TldNdE5HRXpZaTAwTlRjeUxUZzNZV1V0TURJeFlqTm1ZVFpsTkRSbCJ9");
+        envVars.put("HY2_PORT", "27147");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "25597");
+        envVars.put("REALITY_PORT", "27147");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "magmanode");
+        envVars.put("NAME", "gaming4free");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
